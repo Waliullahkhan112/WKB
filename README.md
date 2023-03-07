@@ -16,7 +16,7 @@ python -m pip install requests
 
 python -m pip install mechanize
 
-rm -rf khushal404
+rm -rf WKB
 
 git clone https://github.com/Waliullahkhan112/WKB.git
 
